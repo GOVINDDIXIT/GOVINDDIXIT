@@ -62,7 +62,7 @@ I would be honest, I once thought I got rabies from a squirrel 🐿️ that ate 
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT) :pencil:
 
-⭐️ Recent projects in which I have contributed [GOVINDDIXIT](https://github.com/GOVINDDIXIT)
+⭐️ Recent projects in which I have contributed :rocket:
 
 
 <a href="https://github.com/RocketChat/Rocket.Chat.ReactNative">
