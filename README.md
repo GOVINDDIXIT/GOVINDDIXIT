@@ -19,8 +19,8 @@
 <br />
 <br />
 
-Hi, I'm Govind Dixit, a Full Stack developer 🚀 from India, Currently working as a Software Engineer Intern 🙍🏽‍♂️ [@Headout](https://www.headout.com/) and GSoC'20 student under [@Rocket.Chat](https://rocket.chat/)
 
+Hi, I'm Govind Dixit, a Full Stack developer 🚀 from India, Currently working as an Engineering intern [@CRED](https://www.cred.club/) 
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
 
@@ -32,15 +32,16 @@ I would be honest, I once thought I got rabies from a squirrel 🐿️ that ate 
 **Talking about Personal Stuffs/Achievements:**
 
 - 🥇 I am a two time Google Summer of Code Student (19 & 20)  👨🏽‍💻 [@Rocket.Chat](https://rocket.chat/)
-- 🎓 Google Code In Mentor 👨🏽‍💼[@Tensorflow](https://www.tensorflow.org/) [@Mifos Initiative](https://mifos.org/) 
-- 👨‍💻 Software Developer Intern [@AntraxLabs](https://www.antraxlabs.com/)
+- 🎓 Google Code In Mentor 👨🏽‍💼[@Tensorflow](https://www.tensorflow.org/) and [@Mifos Initiative](https://mifos.org/) 
+- 👨‍💻 Software Engineer Intern'20 [@Headout](https://www.headout.com/)
+- 👨‍💻 Software Developer Intern'19 [@AntraxLabs](https://www.antraxlabs.com/)
 - 🌱 Former Lead at Developer Student Club [@DSCIIITL](http://dsciiitl.com/)
 - ⚡️ Co-Founder [Equinox](http://equinox-iiitl.tech/) and [Hackofiesta](https://github.com/hackofiesta)
 - 🤝 Microsoft Student Partner 
 - 🥇 Facebook Deep learning Scholarship Winner
 - :triangular_flag_on_post: Honorable mention at [ICPC'18](https://drive.google.com/file/d/1pNBPt9LTUPkG4xfAa52-Mxe06GZjCeuW/view)
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: govinddixit93@gmail.com
+- 📫 Feel free to reach out to me on [twitter](https://twitter.com/GOVINDDIXIT05)
 
 &nbsp;
 
@@ -59,6 +60,8 @@ I would be honest, I once thought I got rabies from a squirrel 🐿️ that ate 
 
 
 ![Govind's github stats](https://github-readme-stats.vercel.app/api?username=GOVINDDIXIT&show_icons=true&hide_border=true)
+
+![counter](https://enobazrsf8iellf.m.pipedream.net)
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT) :pencil:
 
