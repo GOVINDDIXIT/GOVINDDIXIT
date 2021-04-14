@@ -35,13 +35,13 @@ I would be honest, I once thought I got rabies from a squirrel 🐿️ that ate 
 - 🎓 Google Code In Mentor 👨🏽‍💼[@Tensorflow](https://www.tensorflow.org/) and [@Mifos Initiative](https://mifos.org/) 
 - 👨‍💻 Software Engineer Intern'20 [@Headout](https://www.headout.com/)
 - 👨‍💻 Software Developer Intern'19 [@AntraxLabs](https://www.antraxlabs.com/)
-- 🌱 Former Lead at Developer Student Club [@DSCIIITL](http://dsciiitl.com/)
-- ⚡️ Co-Founder [Equinox](http://equinox-iiitl.tech/) and [Hackofiesta](https://github.com/hackofiesta)
+- 🌱 Former Lead at Developer Student Club [@DSCIIITL](https://dsciiitl.tech/)
+- ⚡️ Co-Founder [Equinox](https://equinox.iiitl.ac.in/) and [Hackofiesta](https://github.com/hackofiesta)
 - 🤝 Microsoft Student Partner 
 - 🥇 Facebook Deep learning Scholarship Winner
 - :triangular_flag_on_post: Honorable mention at [ICPC'18](https://drive.google.com/file/d/1pNBPt9LTUPkG4xfAa52-Mxe06GZjCeuW/view)
 - 💬 Ask me about anything, I am happy to help
-- 📫 Feel free to reach out to me on [twitter](https://twitter.com/GOVINDDIXIT05)
+- 📫 Feel free to reach out to me on [twitter](https://twitter.com/ImGovindDixit)
 
 &nbsp;
 
