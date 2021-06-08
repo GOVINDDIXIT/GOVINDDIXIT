@@ -20,7 +20,7 @@
 <br />
 
 
-Hi, I'm Govind Dixit, a Full Stack developer 🚀 from India, Currently working as an Engineering intern [@CRED](https://www.cred.club/) 
+Hi, I'm Govind Dixit, a Full Stack developer 🚀 from India, Currently working as Software Engineer [@CRED](https://www.cred.club/) 
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
 
@@ -32,7 +32,10 @@ I would be honest, I once thought I got rabies from a squirrel 🐿️ that ate 
 **Talking about Personal Stuffs/Achievements:**
 
 - 🥇 I am a two time Google Summer of Code Student (19 & 20)  👨🏽‍💻 [@Rocket.Chat](https://rocket.chat/)
+- 🎓 Google Summer of Code Mentor 👨🏽‍💼[@Rocket.Chat](https://rocket.chat/)
 - 🎓 Google Code In Mentor 👨🏽‍💼[@Tensorflow](https://www.tensorflow.org/) and [@Mifos Initiative](https://mifos.org/) 
+- 👨‍💻 Mobile Engineer Intern'21 [@CRED](https://www.cred.club/) 
+- 👨‍💻 Software Engineer Intern'20 [@Urban Company](https://www.urbancompany.com/)
 - 👨‍💻 Software Engineer Intern'20 [@Headout](https://www.headout.com/)
 - 👨‍💻 Software Developer Intern'19 [@AntraxLabs](https://www.antraxlabs.com/)
 - 🌱 Former Lead at Developer Student Club [@DSCIIITL](https://dsciiitl.tech/)
