@@ -1,13 +1,13 @@
 ### Hey 👋, I'm [Govind!](https://govinddixit.github.io/)
 
 
-<a href="https://twitter.com/GOVINDDIXIT05">
+<a href="https://twitter.com/ImGovindDixit">
   <img align="left" alt="Govind Dixit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/govind-dixit-58708413a">
+<a href="https://www.linkedin.com/in/govinddixit">
   <img align="left" alt="Govind's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/govind__dixit">
+<a href="https://www.instagram.com/imgovinddixit">
   <img align="left" alt="Govind's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://stackoverflow.com/users/8549281/govind-dixit/">
