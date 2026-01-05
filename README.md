@@ -20,11 +20,9 @@
 <br />
 
 
-Hi, I'm Govind Dixit, a Senior Software Engineer 🚀 from India, Currently working at [@CRED](https://www.cred.club/) 
+Hi, I'm Govind Dixit, a Senior Software Engineer 🚀 from India, Currently working as a Founding Engineer [@FINVEST](https://www.getfinvest.com/) 
 
-Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
-
-I would be honest, I once thought I got rabies from a squirrel 🐿️ that ate some of my sandwich 🥪.
+Beside's developing stuff, I enjoy listening music 🎧, doing workout 🏋️ and traveling 🏝️🗻.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" />
 
@@ -61,30 +59,8 @@ I would be honest, I once thought I got rabies from a squirrel 🐿️ that ate 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
-![Govind's github stats](https://github-readme-stats.vercel.app/api?username=GOVINDDIXIT&show_icons=true&hide_border=true)
-
 ![counter](https://enobazrsf8iellf.m.pipedream.net)
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT) :pencil:
-
-⭐️ Recent projects in which I have contributed :rocket:
-
-
-<a href="https://github.com/RocketChat/Rocket.Chat.ReactNative">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RocketChat&repo=Rocket.Chat.ReactNative" />
-</a>
-
-<a href="https://github.com/RocketChat/Rocket.Chat.Android">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=RocketChat&repo=Rocket.Chat.Android" />
-</a>
-
-<a href="https://github.com/GOVINDDIXIT/chronos-localiser">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GOVINDDIXIT&repo=chronos-localiser" />
-</a>
-
-<a href="https://github.com/GOVINDDIXIT/Speaking-Silence">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GOVINDDIXIT&repo=Speaking-Silence" />
-</a>
 
 
