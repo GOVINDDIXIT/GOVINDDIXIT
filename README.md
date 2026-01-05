@@ -32,13 +32,10 @@ Beside's developing stuff, I enjoy listening music 🎧, doing workout 🏋️ a
 - 🎓 Google Summer of Code Mentor 👨🏽‍💼[@Rocket.Chat](https://rocket.chat/)
 - 🎓 Google Code In Mentor 👨🏽‍💼[@Tensorflow](https://www.tensorflow.org/) and [@Mifos Initiative](https://mifos.org/)
 - 🥇 I am a two time Google Summer of Code Student (19 & 20)  👨🏽‍💻 [@Rocket.Chat](https://rocket.chat/)
-- 👨‍💻 Mobile Engineer Intern'21 [@CRED](https://www.cred.club/) 
-- 👨‍💻 Software Engineer Intern'20 [@Urban Company](https://www.urbancompany.com/)
-- 👨‍💻 Software Engineer Intern'20 [@Headout](https://www.headout.com/)
-- 👨‍💻 Software Developer Intern'19 [@AntraxLabs](https://www.antraxlabs.com/)
+- Worked with some of the coolest startups worldwide 👨‍💻 [@CRED](https://www.cred.club/), [@Urban Company](https://www.urbancompany.com/), [@Headout](https://www.headout.com/), [@Rocket.Chat](https://rocket.chat/), [@AntraxLabs](https://www.antraxlabs.com/)
 - 🌱 Former Lead at Developer Student Club [@DSCIIITL](https://dsciiitl.tech/)
 - ⚡️ Co-Founder [Equinox](https://equinox.iiitl.ac.in/) and [Hackofiesta](https://github.com/hackofiesta)
-- 🤝 Microsoft Student Partner 
+- 🤝 Microsoft Student Ambassador 
 - 🥇 Facebook Deep learning Scholarship Winner
 - :triangular_flag_on_post: Honorable mention at [ICPC'18](https://drive.google.com/file/d/1pNBPt9LTUPkG4xfAa52-Mxe06GZjCeuW/view)
 - 💬 Ask me about anything, I am happy to help
